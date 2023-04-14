@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/93142399/231852840-b93b40a0-adab-4507-bed9-9debcacfcc28.png)
 
 
-<h1>Stock Market Prediction using numerical and textual analysis</h1>
+<h2>Stock Market Prediction using numerical and textual analysis</h2>
 
 - This project is a part of The Sparks Foundation GRIP internship which highlights time series analysis of historical stock prices and sentimental analysis of news headlines.
 
